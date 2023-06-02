@@ -16,3 +16,6 @@
 
 * Campo: Esta classe fica resposavel pelo gerenciamento de captura dos dados
 
+
+contribuation: Marcos Churkin, Mateus Demenjon,
+
