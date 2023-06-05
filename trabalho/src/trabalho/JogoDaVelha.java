@@ -45,9 +45,7 @@ public class JogoDaVelha extends Campo {
 	
 	//Funcao pra Limpar tela
 	public static void cleanScreen(){
-		for(int cont=0;cont<200;cont++){
-			System.out.println("");
-		}
+		System.out.print("\033\143");
 	}
 	
 	
