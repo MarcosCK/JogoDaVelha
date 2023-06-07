@@ -27,7 +27,7 @@ public class JogoDaVelha extends Campo {
 					}
 				}
 			}catch(Exception e){
-				System.out.print("Ocurreu um erro durante o jogo:"+e);
+				System.out.print("Ocurreu um erro durante o jogo:" + e);
 			}
 		}
 		System.out.print("Fim de jogo!");
